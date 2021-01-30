@@ -1,0 +1,4 @@
+npm install express // nodejs framework
+npm install -g nodemon // To start server 
+npm install ejs // express engine
+npm install uuid // this will allow us to create unique ids
