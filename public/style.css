@@ -1,0 +1,15 @@
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+}
+#video-grid {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+video {
+  height: 300px;
+  width: 100px;
+}
