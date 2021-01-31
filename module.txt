@@ -2,3 +2,7 @@ npm install express // nodejs framework
 npm install -g nodemon // To start server 
 npm install ejs // express engine
 npm install uuid // this will allow us to create unique ids
+npm install socket.io
+npm install -g peer 
+// peerjs simplifies WebRTC peer to peer data,video and audio calls.
+// and 'peerjs --port ~~~'
